@@ -1,0 +1,15 @@
+meow cat
+woof dog
+buzz bee
+quack duck
+cluck chicken
+moo cow
+baa sheep
+hee-haw donkey
+croak Frog
+honk Geese
+oink Pig
+hoot Owl
+squeak Mouse
+hiss Snake
+gobble Turkey
